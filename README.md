@@ -1,2 +1,1 @@
-# ai-literacy
-AI Literacy
+# AI Literacy
